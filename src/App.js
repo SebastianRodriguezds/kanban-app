@@ -13,3 +13,5 @@ function App() {
 }
 
 export default App;
+
+//sets up the basic structure for a React application with a Kanban UI, where the main application component (App) renders a heading and the Kanban component. The detailed functionality of the Kanban UI is likely implemented in the "Kanban" component.

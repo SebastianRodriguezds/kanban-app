@@ -74,3 +74,9 @@ export function Kanban() {
     </DragDropContext>
   );
 }
+
+// Defined a functional component "Kanban" that uses state to store and update Kanban board data.
+// Defined an onDragEnd function that is called when a drag-and-drop operation is completed.
+// Rendered the board using the "DragDropContext" component from the library as the main container for drag-and-drop functionality.
+// Iterated through the board sections, rendering each section as a "Droppable" component.
+// Within each section, tasks are rendered using the "Draggable" component, providing drag-and-drop capability.

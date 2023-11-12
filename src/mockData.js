@@ -58,3 +58,5 @@ const mockData = [
 ];
 
 export default mockData;
+
+//exports a module that contains mock data for a Kanban board. The data structure represents three columns (To Do, In Progress, Completed), each containing tasks. Each task has a unique identifier (generated using the uuidv4 function from the "uuid" library) and a title.
